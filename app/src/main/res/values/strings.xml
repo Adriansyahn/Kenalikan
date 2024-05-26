@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kenalikan</string>
+    <string name="welcome">Selamat datang \n di Kenalikan</string>
+    <string name="prelogin">Sudah punya akun</string>
+    <string name="register">Daftar akun</string>
+</resources>
